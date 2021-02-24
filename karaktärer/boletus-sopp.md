@@ -1,24 +1,29 @@
 # Boletus Sopp
-Lvl 2 krigare  
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Boletus_edulis_JPG5.jpg"
+alt="avatar"
+width="30%"
+style="float:right"/>
+
+Nivå 2 krigare  
 Karljohansvamp  
 Slaktare
-
-<img src="../bilder/karl-johan.jpg" alt="drawing" width="300" pos/>
 
 ## Grundegenskaper
 | Grundegenskap | Bonus |
 |:-:|:-:|
 | Skicklighet | +2 |
-| STY | +2 |
-| SMI | 0 |
-| FYS | +2 |
-| INT | +1 |
-| PSY | +1 |
-| KAR | -1 |
+| Styrka | +2 |
+| Smidighet | 0 |
+| Fysik | +2 |
+| Intelligens | +1 |
+| Psyke | +1 |
+| Karisma | -1 |
 
 Kroppspoäng: 20  
 Fysiktärning: 2 T10  
 Rustningsvärde 13
+
+---
 
 | Vapen | Attack | Skada  |
 | --- | ---  | --- |
@@ -26,17 +31,22 @@ Rustningsvärde 13
 | Dolk | +4 | 1D4+2 |
 
 ## Specialar-muuuuves
-2 gånger per dag kan du göra ett riktigt supermove. Du använder alltid en D8 tärning till dina special-attacker.
-För att motstå dina attacker måste man slå ett slag mot 12.
+Antal moves per dag: 2  
+Motstå attack: 12
+
+Några gånger per dag kan du göra ett riktigt supermove, lika många gånger som din klassnivå. Du använder alltid en D8 tärning till dina special-attacker. Vissa attacker kräver att motståndaren motstår dig, svårighetsgraden räknas ut enligt:  
+```
+8 + STY + Skicklighet
+``` 
 
 ### Pang på dom!
-Du springer i en rakt linje rakt mot en motståndare och gör en attack, som om den träffar gör 1D8 extra skada. Träffar den måste motståndaren lyckas på ett STY-slag eller kastas till marken.
+Du springer i en rakt linje rakt mot en motståndare och gör en attack, som om den träffar gör 1D8 extra skada. Träffar den måste motståndaren lyckas på ett STY-slag eller falla till marken.
 
 ### Rätt i mjälten
-Du siktar rejält, och lägger till en D8 till att träffa, träffar du måste motståndaren lyckas med ett fysik-slag för att inte vika sig dubbel och missa nästa tur.  
+Du siktar rejält, och lägger till en D8 till att träffa, träffar du måste motståndaren lyckas med ett fysik-slag för att inte vika sig dubbel och stå över sin nästa tur.  
 
 ### Smaka på din egen medicin
-Om någon slår dig och missar kan du använda din reaktion för att ta chansen att slå tillbaka
+Om någon slår dig och missar kan du använda din reaktion för att slå tillbaka. Du lägger till 1T8 på attacken eller skadan, välj efter humör.
 
 ## Svampkraft
 ### Gummihud

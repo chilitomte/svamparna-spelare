@@ -1,18 +1,22 @@
 # Maxime Langei
-Lvl 2 barbar  
+<img src="https://mushroomobserver.nyc3.digitaloceanspaces.com/orig/231468.jpg"
+alt="avatar"
+width="40%"
+style="float:right"/>
+
+Nivå 2 barbar  
 Barägare  
 Blodchampinjon
 
-<img src="https://mushroomobserver.nyc3.digitaloceanspaces.com/orig/231468.jpg" alt="drawing" width="300"/>
-
-## Egenskaper
-**Skicklighet**: +2  
-**STY**: +2  
-**SMI**: +2  
-**FYS**: +1  
-**INT**: +0  
-**PSY**: -1  
-**KAR**: +1
+| Grundegenskap | Bonus |
+|:-:|:-:|
+| Skicklighet | +2 |
+| Styrka | +2 |
+| Smidighet | +2 |
+| Fysik | +1 |
+| Intelligens | 0 |
+| Psyke | -1 |
+| Karisma | +1 |
 
 ---
 ## Strid

@@ -1,5 +1,5 @@
 # Fungia
-Lvl 2 magiker  
+Nivå 2 magiker  
 Fjällig bläcksvamp  
 Skogsmulle
 
@@ -9,17 +9,18 @@ Skogsmulle
 
 | Grundegenskap | Bonus |
 |:-:|:-:|
+| Styrka | -1 |
+| Smidighet | +2 |
+| Fysik | 0 |
+| Intelligens | +1 |
+| Psyke | +2 |
+| Karisma | +1 |
 | Skicklighet | +2 |
-| STY | -1 |
-| SMI | +2 |
-| FYS | 0 |
-| INT | +1 |
-| PSY | +2 |
-| KAR | +1 |
 
-Kroppspoäng: 10  
-Fysiktärning: 2 T6  
-Rustningsvärde 12
+## Strid
+Kroppspoäng: 10    
+Fysiktärning: 2 T6    
+Rustningsvärde 12  
 
 | Vapen | Attack | Skada  |
 | --- | ---  | --- |
