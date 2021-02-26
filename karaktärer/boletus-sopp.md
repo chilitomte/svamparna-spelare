@@ -11,30 +11,28 @@ Slaktare
 ## Grundegenskaper
 | Grundegenskap | Bonus |
 |:-:|:-:|
-| Skicklighet | +2 |
 | Styrka | +2 |
 | Smidighet | 0 |
 | Fysik | +2 |
 | Intelligens | +1 |
 | Psyke | +1 |
 | Karisma | -1 |
+| Skicklighet | +2 |
 
+## Strid
 Kroppspoäng: 20  
 Fysiktärning: 2 T10  
 Rustningsvärde 13
-
----
 
 | Vapen | Attack | Skada  |
 | --- | ---  | --- |
 | Handyxa | +4 | 1D6+2 |
 | Dolk | +4 | 1D4+2 |
 
-## Specialar-muuuuves
-Antal moves per dag: 2  
-Motstå attack: 12
-
-Några gånger per dag kan du göra ett riktigt supermove, lika många gånger som din klassnivå. Du använder alltid en D8 tärning till dina special-attacker. Vissa attacker kräver att motståndaren motstår dig, svårighetsgraden räknas ut enligt:  
+## Manöver
+**Antal manövrar**: 2  
+**Manöverkraft**: 12  
+Några gånger per dag kan du göra ett riktigt supermove. Du använder alltid en D8 tärning till dina special-attacker. Vissa attacker kräver att motståndaren motstår dig, då slår de mot din manöverkraft, som  räknas ut enligt:  
 ```
 8 + STY + Skicklighet
 ``` 
