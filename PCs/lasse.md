@@ -1,4 +1,4 @@
-# Lasse
+# Lasse Eldstad
 Nivå 1 tjuv  
 Människa med svampmössa  
 Vagabond  
