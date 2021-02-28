@@ -25,9 +25,9 @@ Rustningsvärde: 13
 
 | Vapen | Attack | Skada  |
 | --- | ---  | --- |
-| Moppkvast i en hand | +4 | 1D6 +2 |
-| Moppkvast i två händer | +4 | 1D8 +2 |
-| Smäll på käften | +4 | 1D4 +2 |
+| Moppkvast i en hand | +4 | 1T6 +2 |
+| Moppkvast i två händer | +4 | 1T8 +2 |
+| Smäll på käften | +4 | 1T4 +2 |
 
 ## Det är fegt med rustning
 Du vill röra dig fritt i strid, rustning tynger ner dig och gör dig slö, dessutom är det fegt med rustning. När du inte bär rustning är ditt rustningsvärde:
