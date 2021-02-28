@@ -51,11 +51,11 @@ Du kan frammana eld, som håller sig så länge du kan hålla koncentrationen p�
 Du kan själv välja om denna eld är varm, hur ljus den är och vilken färg den har, den tänder inte eld på något om du inte aktivt försöker göra det.
 
 ### Eldstråde
-*40 meter räckvidd*
+*40 meter räckvidd*  
 Med elden som du frammanar enligt ovan kan du samla i din hand och skjuta iväg som en stråle av eldenergi, du rullar för attack och lägger till din Magibonus, träffar du gör du **1T10** skada.
 
 ### Illusion
-*20 meter räckvidd*
+*20 meter räckvidd*  
 Du skapar en illusion som ett ljud eller en bild. Använd fantasin, så får vi se vad som händer. Andra varelser kan lista ut att det är en illusion genom att slå ett intelligens-slag mot din Magikraft.
 
 ## Nivå 1 (4 per dag)
@@ -65,11 +65,11 @@ Du väljer en punkt inom 30 meter, och varelser inom 10 meters avstånd från de
 
 ### Eldboll
 *30 meter räckvidd*  
-*50 meter räckvidd med nackdel*
+*50 meter räckvidd med nackdel*  
 Du skjuter iväg en eldboll som bränner upp massa saker i sin väg. Varelser som träffas tar **4T6** skada,undviker man eldbollen med ett lyckat smidighet-slag mot din Magikraft tar man halva skadan.
 
 ### Sköld
-*20 meter räckvidd*
+*20 meter räckvidd*  
 Du kan som en reaktion ge någon i din närhet en sköld, som ökar deras rustningsvärde med **+3**. Skölden räcker i en runda.
 
 ## Svampkraft
